@@ -1,0 +1,15 @@
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\bin\Debug\net7.0\ProgressBar.exe
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\bin\Debug\net7.0\ProgressBar.deps.json
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\bin\Debug\net7.0\ProgressBar.runtimeconfig.json
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\bin\Debug\net7.0\ProgressBar.dll
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\bin\Debug\net7.0\ProgressBar.pdb
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\ProgressBar.csproj.AssemblyReference.cache
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\ProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\ProgressBar.AssemblyInfo.cs
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\ProgressBar.dll
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\refint\ProgressBar.dll
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\ProgressBar.pdb
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\ProgressBar.genruntimeconfig.cache
+C:\Users\eliza\source\repos\ProgressBar\ProgressBar\obj\Debug\net7.0\ref\ProgressBar.dll
